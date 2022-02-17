@@ -1,0 +1,11 @@
+com/example/root/fire_major_notification/MyFirebaseInstanceIDService.java
+ com.example.root.fire_major_notification.MyFirebaseInstanceIDService
+com/example/root/fire_major_notification/MyFirebaseMessagingService.java
+ com.example.root.fire_major_notification.MyFirebaseMessagingService
+com/example/root/fire_major_notification/MainActivity.java
+ com.example.root.fire_major_notification.MainActivity
+ com.example.root.fire_major_notification.MainActivity$1
+com/example/root/fire_major_notification/MyService.java
+ com.example.root.fire_major_notification.MyService
+com/example/root/fire_major_notification/BuildConfig.java
+ com.example.root.fire_major_notification.BuildConfig

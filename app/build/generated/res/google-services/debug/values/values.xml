@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">457374308934-hmusng44ovgqpti97p6pfmrrdg69obic.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://esri-eea51.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">457374308934</string>
+    <string name="google_api_key" translatable="false">AIzaSyA97A8J7qMkLqPF_RPHpIY7ZEz164Osyl0</string>
+    <string name="google_app_id" translatable="false">1:457374308934:android:d113946fde60d7ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA97A8J7qMkLqPF_RPHpIY7ZEz164Osyl0</string>
+    <string name="google_storage_bucket" translatable="false">esri-eea51.appspot.com</string>
+    <string name="project_id" translatable="false">esri-eea51</string>
+</resources>

@@ -1,0 +1,4 @@
+#Tue Oct 24 01:15:54 IST 2017
+base.0=/root/AndroidStudioProjects/Fire_Major_Notification/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/root/AndroidStudioProjects/Fire_Major_Notification/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
